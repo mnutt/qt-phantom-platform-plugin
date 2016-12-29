@@ -11,7 +11,7 @@ qmake
 make
 ```
 
-Copy plugins/platform/qphantomjs.so to your qt platform plugin directory, likely `/usr/plugins/platform/`
+Copy plugins/platform/libqphantom.so to your qt platform plugin directory, likely `/usr/plugins/platform/`
 
 ## Usage
 
