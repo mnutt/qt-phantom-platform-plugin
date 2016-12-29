@@ -1,0 +1,4 @@
+/plugins
+Makefile*
+/mkspecs
+/lib
