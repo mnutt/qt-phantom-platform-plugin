@@ -2,3 +2,5 @@
 Makefile*
 /mkspecs
 /lib
+.qmake.stash
+.moc
